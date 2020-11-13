@@ -14,7 +14,7 @@
   git clone 
 
   # Alterar o .env
-  Altere o .env para acesso com suas credenciais e informações do banco de dados postgree
+  Altere o .env para acesso com suas credenciais e informações do banco de dados postgreen
   
   # Instalando as dependências
   npm install
